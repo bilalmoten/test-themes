@@ -2360,6 +2360,13 @@ li a:hover,
 	margin-bottom: 34px;
 }
 
+.feature--icon img {
+	width: 48px;
+	height: 48px;
+	color: #f5af00;
+	/* Set the color to #f5af00 */
+}
+
 .feature-panel .feature--icon i {
 	-webkit-transition: all .3s linear;
 	-moz-transition: all .3s linear;
